@@ -15,6 +15,8 @@ This project involves the classification of musical instruments in audio files u
 
 6. **Inference with Pseudo Labels:** [`inference_pseudo.py`](inference_pseudo.py) evaluates the model trained with pseudo labels, and the inferences are compared against both actual labels and pseudo labels. The accuracy is recorded for both scenarios.
 
+##datset - https://zenodo.org/records/3685367
+
 ## Project Structure
 The project directory structure is as follows:
 
